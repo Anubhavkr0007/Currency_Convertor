@@ -17,7 +17,7 @@ A lightweight, high-performance console-based Java application that allows users
 ## 🛠️ Built With
 
 * **Language:** Java (JDK 9 or higher required)
-* **IDE Tools:** IntelliJ IDEA
+* **IDE Tools:** IntelliJ IDEA, VS-CODE
 * **Data Structure:** `java.util.Map` for key-value pair tracking
 
 ---
@@ -26,4 +26,4 @@ A lightweight, high-performance console-based Java application that allows users
 
 1. **Clone the repository to your local machine:**
 ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/Anubhavkr007/CurrencyConvertor.git](https://github.com/Anubhavkr007/CurrencyConvertor.git)
